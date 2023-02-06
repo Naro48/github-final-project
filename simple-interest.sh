@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <Naro48>
+   # Naro48
 
    # Input:
    # p, principal amount
